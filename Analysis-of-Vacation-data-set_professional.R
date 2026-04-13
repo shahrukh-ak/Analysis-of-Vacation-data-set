@@ -1,9 +1,5 @@
 # Vacation Data Analysis
-#
-# Professionalized version of the original project file.
-# The code and stated results are retained from the source as closely as possible.
-# Output text from the original file has been converted to comments where needed for readability.
-#
+
 
 # Analysis-of-Vacation-data-setThe data “vacation” data provided in the link below describe a sample of 200 Chicago households regarding their vacation. The data includes the following variables
 # 1. miles miles traveled per year
